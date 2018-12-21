@@ -1,4 +1,4 @@
-These are attempted by my `site_traffic` function within my router's reach and no VPN or similar items were used in this process. The program here is Fiddler as per python requirements
+These are attempted by my `hit_site` function within my router's reach and no VPN or similar items were used in this process. The program here is Fiddler as per python requirements
 
 # Getting Started.
 
